@@ -1,4 +1,6 @@
-# CNKI_SogouWechat_SogouNews_Spider
+# 知网、搜狗微信、搜狗新闻爬虫
+## CNKI_SogouWechat_SogouNews_Spider
+
 
 个人项目，只支持**python3**.
 
