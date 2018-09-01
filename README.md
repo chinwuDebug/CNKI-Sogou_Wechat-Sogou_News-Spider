@@ -60,7 +60,7 @@
 
 - 抓取关键词
 
-  KEYWORDS 指抓取 sogou_news、sogou_wechat、inner_search需要抓的关键词（知网搜索的关键词与这个无关），以list形式传入
+  KEYWORDS 指抓取 sogou_news、sogou_wechat需要抓的关键词（知网搜索的关键词与这个无关），以list形式传入
 
   E.g.  KEYWORDS = [“高分一号”, “高分二号”, ...]
 
