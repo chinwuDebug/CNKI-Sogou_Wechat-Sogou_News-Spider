@@ -8,7 +8,7 @@
 
 **需要在每个模块中建立output文件夹，才能使用，文档结构如下图所示**
 
-![文档结构](https://github.com/chinwuDebug/CNKI-Sogou_Wechat-Sogou_News-Spider/blob/master/文档结构.png)
+![文档结构]()
 
 ---
 ### 搜狗微信文章抓取
