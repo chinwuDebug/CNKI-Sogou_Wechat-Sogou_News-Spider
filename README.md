@@ -7,7 +7,7 @@
 本文中涉及的阿布云IP隧道及云打码平台需要自己注册，并在code中相应部分取消注释。
 
 **需要在每个模块中建立output文件夹，才能使用，文档结构如下图所示**
-![文档结构]（https://github.com/chinwuDebug/CNKI-Sogou_Wechat-Sogou_News-Spider/blob/master/%E6%96%87%E6%A1%A3%E7%BB%93%E6%9E%84.png?raw=true）
+<文档结构>（https://github.com/chinwuDebug/CNKI-Sogou_Wechat-Sogou_News-Spider/blob/master/%E6%96%87%E6%A1%A3%E7%BB%93%E6%9E%84.png?raw=true）
 
 ---
 ### 搜狗微信文章抓取
